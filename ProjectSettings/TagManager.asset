@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - base
+  - pipe
+  - column
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sortinglayer1
+    uniqueID: 3792100143
+    locked: 0
+  - name: sortinglayer1.5
+    uniqueID: 939102945
+    locked: 0
+  - name: sortinglayer2
+    uniqueID: 2463353067
+    locked: 0
+  - name: sortinglayer3
+    uniqueID: 351820189
+    locked: 0
+  - name: canvas
+    uniqueID: 2678787327
+    locked: 0
